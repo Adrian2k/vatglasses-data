@@ -23188,7 +23188,7 @@
   "groups": { "Polaris FIR": { "name": "Polaris" }, "ENOB": { "name": "Bodø Oceanic" } },
   "positions": {
     "QR": {
-      "colours": [ { "hex": "#2180d1" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENAL" ],
       "type": "APP",
       "frequency": "129.330",
@@ -23202,7 +23202,7 @@
       "callsign": "Vigra Tower"
     },
     "AX": {
-      "colours": [ { "hex": "#cae832" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENAN" ],
       "type": "APP",
       "frequency": "118.705",
@@ -23223,49 +23223,49 @@
       "callsign": "Ny Ålesund Information"
     },
     "AT": {
-      "colours": [ { "hex": "#c21bda" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENAT" ],
       "type": "APP",
       "frequency": "120.405",
       "callsign": "Alta Tower"
     },
     "19R": {
-      "colours": [ { "hex": "#e03737" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "131.100",
       "callsign": "Polaris Control"
     },
     "25R": {
-      "colours": [ { "hex": "#e05937" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "126.450",
       "callsign": "Polaris Control"
     },
     "24R": {
-      "colours": [ { "hex": "#e07a37" } ],
+      "colours": [ { "hex": "#da1bc2" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "118.550",
       "callsign": "Polaris Control"
     },
     "26R": {
-      "colours": [ { "hex": "#e05637" } ],
+      "colours": [ { "hex": "#2bf1d0" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "126.700",
       "callsign": "Polaris Control"
     },
     "23R": {
-      "colours": [ { "hex": "#e07837" } ],
+      "colours": [ { "hex": "#e39336" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "124.300",
       "callsign": "Polaris Control (Offshore)"
     },
     "18R": {
-      "colours": [ { "hex": "#e05337" } ],
+      "colours": [ { "hex": "#4c1ed4" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "125.700",
@@ -23279,7 +23279,7 @@
       "callsign": "Bringeland Information"
     },
     "HR": {
-      "colours": [ { "hex": "#2bf19f" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENBN" ],
       "type": "APP",
       "frequency": "127.900",
@@ -23293,7 +23293,7 @@
       "callsign": "Brønnøy Information"
     },
     "AR": {
-      "colours": [ { "hex": "#2bf1d0" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENBO" ],
       "type": "APP",
       "frequency": "124.000",
@@ -23307,14 +23307,14 @@
       "callsign": "Bodø Tower"
     },
     "D": {
-      "colours": [ { "hex": "#e39336" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENBR" ],
       "type": "APP",
       "frequency": "118.855",
       "callsign": "Flesland Director"
     },
     "BER": {
-      "colours": [ { "hex": "#811cd7" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENBR" ],
       "type": "APP",
       "frequency": "126.105",
@@ -23328,7 +23328,7 @@
       "callsign": "Flesland Tower"
     },
     "BWR": {
-      "colours": [ { "hex": "#b01cd7" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENBR" ],
       "type": "APP",
       "frequency": "121.005",
@@ -23349,7 +23349,7 @@
       "callsign": "Berlevåg Information"
     },
     "CX": {
-      "colours": [ { "hex": "#2def5d" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENCN" ],
       "type": "APP",
       "frequency": "119.955",
@@ -23377,7 +23377,7 @@
       "callsign": "Bardufoss Tower"
     },
     "EX": {
-      "colours": [ { "hex": "#cae832" } ],
+      "colours": [ { "hex": "#da1bc2" } ],
       "pre": [ "ENEV" ],
       "type": "APP",
       "frequency": "120.105",
@@ -23405,14 +23405,14 @@
       "callsign": "Tampen Information"
     },
     "DD": {
-      "colours": [ { "hex": "#2def8e" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENGM" ],
       "type": "APP",
       "frequency": "136.405",
       "callsign": "Oslo Director"
     },
     "GER": {
-      "colours": [ { "hex": "#2def5d" } ],
+      "colours": [ { "hex": "#da1bc2" } ],
       "pre": [ "ENGM" ],
       "type": "APP",
       "frequency": "118.480",
@@ -23433,14 +23433,14 @@
       "callsign": "Oslo Planner"
     },
     "FF": {
-      "colours": [ { "hex": "#4c1ed4" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENGM" ],
       "type": "APP",
       "frequency": "128.905",
       "callsign": "Oslo Final"
     },
     "GWR": {
-      "colours": [ { "hex": "#2def8e" } ],
+      "colours": [ { "hex": "#2bf1d0" } ],
       "pre": [ "ENGM" ],
       "type": "APP",
       "frequency": "120.455",
@@ -23482,7 +23482,7 @@
       "callsign": "Valan Information"
     },
     "PR": {
-      "colours": [ { "hex": "#2154d1" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENKB" ],
       "type": "APP",
       "frequency": "119.355",
@@ -23496,7 +23496,7 @@
       "callsign": "Kvernberget Tower"
     },
     "KX": {
-      "colours": [ { "hex": "#37ec2f" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENKR" ],
       "type": "APP",
       "frequency": "120.355",
@@ -23545,7 +23545,7 @@
       "callsign": "Mosjøen Information"
     },
     "NA": {
-      "colours": [ { "hex": "#da1bc2" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENNA" ],
       "type": "APP",
       "frequency": "118.905",
@@ -23566,21 +23566,21 @@
       "callsign": "Notodden Information"
     },
     "OB": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENOB" ],
       "type": "CTR",
       "frequency": "123.175",
       "callsign": "Bodø Oceanic Control"
     },
     "ER": {
-      "colours": [ { "hex": "#2180d1" } ],
+      "colours": [ { "hex": "#da1bc2" } ],
       "pre": [ "ENOL" ],
       "type": "APP",
       "frequency": "118.255",
       "callsign": "Ørland Approach"
     },
     "ED": {
-      "colours": [ { "hex": "#dd185a" } ],
+      "colours": [ { "hex": "#2bf1d0" } ],
       "pre": [ "ENOL" ],
       "type": "APP",
       "frequency": "126.205",
@@ -23594,77 +23594,77 @@
       "callsign": "Ørland Tower"
     },
     "OR": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "125.500",
       "callsign": "Polaris Control"
     },
     "NC": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "134.515",
       "callsign": "Polaris Control"
     },
     "NS": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#da1bc2" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "121.550",
       "callsign": "Polaris Control"
     },
     "1R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "118.830",
       "callsign": "Polaris Control"
     },
     "2R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "126.630",
       "callsign": "Polaris Control"
     },
     "3R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#da1bc2" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "125.055",
       "callsign": "Polaris Control"
     },
     "4R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#2bf1d0" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "118.880",
       "callsign": "Polaris Control"
     },
     "7R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#e39336" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "124.780",
       "callsign": "Polaris Control"
     },
     "8R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#4c1ed4" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "134.355",
       "callsign": "Polaris Control"
     },
     "5R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#37ec2f" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "127.255",
       "callsign": "Polaris Control"
     },
     "6R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#dd185a" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "120.380",
@@ -23685,14 +23685,14 @@
       "callsign": "Røssvoll Information"
     },
     "RCN": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#00ffff" } ],
       "pre": [ "ENRC" ],
       "type": "CTR",
       "frequency": "118.325",
       "callsign": "Bodø North RTC"
     },
     "RCS": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#00ffff" } ],
       "pre": [ "ENRC" ],
       "type": "CTR",
       "frequency": "118.425",
@@ -23790,56 +23790,56 @@
       "callsign": "Stokka Information"
     },
     "14R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#2154d1" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "124.580",
       "callsign": "Polaris Control"
     },
     "16R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "135.680",
       "callsign": "Polaris Control"
     },
     "9R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#da1bc2" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "120.655",
       "callsign": "Polaris Control"
     },
     "13R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#2bf1d0" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "134.930",
       "callsign": "Polaris Control"
     },
     "17R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#e39336" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "124.705",
       "callsign": "Polaris Control"
     },
     "21R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#4c1ed4" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "134.205",
       "callsign": "Polaris Control (Offshore)"
     },
     "10R": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#37ec2f" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "136.280",
       "callsign": "Polaris Control"
     },
     "TX": {
-      "colours": [ { "hex": "#9ce832" } ],
+      "colours": [ { "hex": "#2bf1d0" } ],
       "pre": [ "ENTC" ],
       "type": "APP",
       "frequency": "123.755",
@@ -23853,14 +23853,14 @@
       "callsign": "Tromsø Tower"
     },
     "FR": {
-      "colours": [ { "hex": "#2def5d" } ],
+      "colours": [ { "hex": "#e39336" } ],
       "pre": [ "ENTO" ],
       "type": "APP",
       "frequency": "134.055",
       "callsign": "Farris Approach"
     },
     "FD": {
-      "colours": [ { "hex": "#228ece" } ],
+      "colours": [ { "hex": "#9ce832" } ],
       "pre": [ "ENTO" ],
       "type": "APP",
       "frequency": "124.355",
@@ -23874,14 +23874,14 @@
       "callsign": "Torp Tower"
     },
     "CR": {
-      "colours": [ { "hex": "#2154d1" } ],
+      "colours": [ { "hex": "#e39336" } ],
       "pre": [ "ENVA" ],
       "type": "APP",
       "frequency": "118.605",
       "callsign": "Værnes Approach"
     },
     "CD": {
-      "colours": [ { "hex": "#d7e633" } ],
+      "colours": [ { "hex": "#ffffff" } ],
       "pre": [ "ENVA" ],
       "type": "APP",
       "frequency": "119.155",
@@ -23902,14 +23902,14 @@
       "callsign": "Vadsø Information"
     },
     "ZAR": {
-      "colours": [ { "hex": "#811cd7" } ],
+      "colours": [ { "hex": "#da1bc2" } ],
       "pre": [ "ENZV" ],
       "type": "APP",
       "frequency": "119.605",
       "callsign": "Sola Approach"
     },
     "ZER": {
-      "colours": [ { "hex": "#b01cd7" } ],
+      "colours": [ { "hex": "#2bf1d0" } ],
       "pre": [ "ENZV" ],
       "type": "APP",
       "frequency": "119.405",
