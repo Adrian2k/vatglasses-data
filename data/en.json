@@ -23230,42 +23230,42 @@
       "callsign": "Alta Tower"
     },
     "19R": {
-      "colours": [ { "hex": "#adda25" } ],
+      "colours": [ { "hex": "#5e12c8" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "131.100",
       "callsign": "Polaris Control"
     },
     "25R": {
-      "colours": [ { "hex": "#c40fcc" } ],
+      "colours": [ { "hex": "#adda25" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "126.450",
       "callsign": "Polaris Control"
     },
     "24R": {
-      "colours": [ { "hex": "#1ee3a1" } ],
+      "colours": [ { "hex": "#1665c3" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "118.550",
       "callsign": "Polaris Control"
     },
     "26R": {
-      "colours": [ { "hex": "#d7a427" } ],
+      "colours": [ { "hex": "#c40fcc" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "126.700",
       "callsign": "Polaris Control"
     },
     "23R": {
-      "colours": [ { "hex": "#5e12c8" } ],
+      "colours": [ { "hex": "#21e039" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "124.300",
       "callsign": "Polaris Control (Offshore)"
     },
     "18R": {
-      "colours": [ { "hex": "#21e039" } ],
+      "colours": [ { "hex": "#d10b2c" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "125.700",
@@ -23566,7 +23566,7 @@
       "callsign": "Notodden Information"
     },
     "OB": {
-      "colours": [ { "hex": "#d10b2c" } ],
+      "colours": [ { "hex": "#ff0000" } ],
       "pre": [ "ENOB" ],
       "type": "CTR",
       "frequency": "123.175",
@@ -23594,21 +23594,21 @@
       "callsign": "Ørland Tower"
     },
     "OR": {
-      "colours": [ { "hex": "#5e12c8" } ],
+      "colours": [ { "hex": "#ff0000" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "125.500",
       "callsign": "Polaris Control"
     },
     "NC": {
-      "colours": [ { "hex": "#21e039" } ],
+      "colours": [ { "hex": "#ff0000" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "134.515",
       "callsign": "Polaris Control"
     },
     "NS": {
-      "colours": [ { "hex": "#d10b2c" } ],
+      "colours": [ { "hex": "#ff0000" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "121.550",
@@ -23643,28 +23643,28 @@
       "callsign": "Polaris Control"
     },
     "7R": {
-      "colours": [ { "hex": "#1665c3" } ],
+      "colours": [ { "hex": "#c40fcc" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "124.780",
       "callsign": "Polaris Control"
     },
     "8R": {
-      "colours": [ { "hex": "#adda25" } ],
+      "colours": [ { "hex": "#1ee3a1" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "134.355",
       "callsign": "Polaris Control"
     },
     "5R": {
-      "colours": [ { "hex": "#c40fcc" } ],
+      "colours": [ { "hex": "#1665c3" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "127.255",
       "callsign": "Polaris Control"
     },
     "6R": {
-      "colours": [ { "hex": "#1ee3a1" } ],
+      "colours": [ { "hex": "#adda25" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "120.380",
@@ -23790,21 +23790,21 @@
       "callsign": "Stokka Information"
     },
     "14R": {
-      "colours": [ { "hex": "#21e039" } ],
+      "colours": [ { "hex": "#c40fcc" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "124.580",
       "callsign": "Polaris Control"
     },
     "16R": {
-      "colours": [ { "hex": "#d10b2c" } ],
+      "colours": [ { "hex": "#5e12c8" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "135.680",
       "callsign": "Polaris Control"
     },
     "9R": {
-      "colours": [ { "hex": "#1665c3" } ],
+      "colours": [ { "hex": "#d7a427" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "120.655",
@@ -23818,7 +23818,7 @@
       "callsign": "Polaris Control"
     },
     "17R": {
-      "colours": [ { "hex": "#c40fcc" } ],
+      "colours": [ { "hex": "#21e039" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "124.705",
@@ -23832,7 +23832,7 @@
       "callsign": "Polaris Control (Offshore)"
     },
     "10R": {
-      "colours": [ { "hex": "#d7a427" } ],
+      "colours": [ { "hex": "#d10b2c" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "136.280",
