@@ -23566,7 +23566,7 @@
       "callsign": "Notodden Information"
     },
     "OB": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#4ade22" } ],
       "pre": [ "ENOB" ],
       "type": "CTR",
       "frequency": "123.175",
@@ -23594,21 +23594,21 @@
       "callsign": "Ørland Tower"
     },
     "OR": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#2213c6" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "125.500",
       "callsign": "Polaris Control"
     },
     "NC": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#2213c6" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "134.515",
       "callsign": "Polaris Control"
     },
     "NS": {
-      "colours": [ { "hex": "#ff0000" } ],
+      "colours": [ { "hex": "#2213c6" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "121.550",
@@ -23811,7 +23811,7 @@
       "callsign": "Polaris Control"
     },
     "13R": {
-      "colours": [ { "hex": "#adda25" } ],
+      "colours": [ { "hex": "#d56929" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "134.930",
