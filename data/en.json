@@ -2,7 +2,7 @@
   "airspace": [
     {
       "id": "ENAS TIZ",
-      "group": "ENOB",
+      "group": "TIZ",
       "owner": [ "AS", "OB" ],
       "sectors": [
         {
@@ -19,7 +19,7 @@
     },
     {
       "id": "ENSB TIZ",
-      "group": "ENOB",
+      "group": "TIZ",
       "owner": [ "SB", "OB" ],
       "sectors": [
         {
@@ -40,7 +40,7 @@
     },
     {
       "id": "AASTA HANSTEEN HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "23R", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -93,7 +93,7 @@
     },
     {
       "id": "ALVHEIM HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "21R", "16R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -135,7 +135,7 @@
     },
     {
       "id": "ÅSGARD HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "23R", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -188,7 +188,7 @@
     },
     {
       "id": "BALDER HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "21R", "10R", "16R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -241,7 +241,7 @@
     },
     {
       "id": "DRAUGEN HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "23R", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -296,7 +296,7 @@
     },
     {
       "id": "DRAUPNER HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "21R", "10R", "16R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -349,7 +349,7 @@
     },
     {
       "id": "EKOFISK HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "LE", "21R", "10R", "9R", "17R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -369,7 +369,7 @@
     },
     {
       "id": "ENAL CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "AL", "QR", "PR", "RCN", "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -388,7 +388,7 @@
     },
     {
       "id": "ENAN CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "AN", "AX", "RCN", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -406,7 +406,7 @@
     },
     {
       "id": "ENAT CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "AT", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -428,7 +428,7 @@
     },
     {
       "id": "ENBL TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "BL", "RCS", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -445,7 +445,7 @@
     },
     {
       "id": "ENBN TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "BN", "HR", "RCN", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -464,7 +464,7 @@
     },
     {
       "id": "ENBO CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "BO", "AR", "RCN", "24R", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -483,7 +483,7 @@
     },
     {
       "id": "ENBR CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "BR", "D", "BWR", "BER", "RCS", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -505,7 +505,7 @@
     },
     {
       "id": "ENBS TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "BS", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -524,7 +524,7 @@
     },
     {
       "id": "ENBV TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "BV", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -544,7 +544,7 @@
     },
     {
       "id": "ENCN CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "CN", "CX", "RCS", "8R", "5R", "6R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -564,7 +564,7 @@
     },
     {
       "id": "ENDU CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "DU", "LR", "RCN", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -581,7 +581,7 @@
     },
     {
       "id": "ENEV CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "EV", "EX", "RCN", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -602,7 +602,7 @@
     },
     {
       "id": "ENFL TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "FL", "RCS", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -622,7 +622,7 @@
     },
     {
       "id": "ENGM East CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "B", "A", "FF", "DD", "GWR", "GER", "RCS", "6R", "5R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -644,7 +644,7 @@
     },
     {
       "id": "ENGM West CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "A", "B", "FF", "DD", "GWR", "GER", "RCS", "6R", "5R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -667,7 +667,7 @@
     },
     {
       "id": "ENHD CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "HD", "ZAR", "ZER", "RCS", "9R", "17R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -688,7 +688,7 @@
     },
     {
       "id": "ENHF TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "HF", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -709,7 +709,7 @@
     },
     {
       "id": "ENHK TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "HK", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -727,7 +727,7 @@
     },
     {
       "id": "ENHV TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "HV", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -750,7 +750,7 @@
     },
     {
       "id": "ENKB CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "KB", "PR", "QR", "RCN", "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -769,7 +769,7 @@
     },
     {
       "id": "ENKR CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "KR", "KX", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -792,7 +792,7 @@
     },
     {
       "id": "ENLK TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "LK", "RCN", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -811,7 +811,7 @@
     },
     {
       "id": "ENMH TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "MH", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -830,7 +830,7 @@
     },
     {
       "id": "ENML TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "ML", "PR", "QR", "RCN", "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -854,7 +854,7 @@
     },
     {
       "id": "ENMS TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "MS", "HR", "RCN", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -872,7 +872,7 @@
     },
     {
       "id": "ENNA CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "NA", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -893,7 +893,7 @@
     },
     {
       "id": "ENNM TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "NM", "RCN", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -910,7 +910,7 @@
     },
     {
       "id": "ENNO TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "NO", "FR", "FD", "RCS", "4R", "5R", "6R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -972,7 +972,7 @@
     },
     {
       "id": "ENOL CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "OL", "ER", "ED", "RCN", "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -991,7 +991,7 @@
     },
     {
       "id": "ENOV TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "OV", "QR", "PR", "RCN", "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -1024,7 +1024,7 @@
     },
     {
       "id": "ENRA TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "RA", "HR", "RCN", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -1041,7 +1041,7 @@
     },
     {
       "id": "ENRM TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "RM", "RCN", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -1060,7 +1060,7 @@
     },
     {
       "id": "ENRO TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "RO", "RCN", "19R", "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -1079,7 +1079,7 @@
     },
     {
       "id": "ENRS TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "RS", "RCN", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -1099,7 +1099,7 @@
     },
     {
       "id": "ENRY CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "RY", "FR", "FD", "RCS", "4R", "5R", "6R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -1120,7 +1120,7 @@
     },
     {
       "id": "ENSD TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "SD", "RCS", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -1139,7 +1139,7 @@
     },
     {
       "id": "ENSG TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "SG", "RCS", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -1158,7 +1158,7 @@
     },
     {
       "id": "ENSH TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "SH", "RCN", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -1176,7 +1176,7 @@
     },
     {
       "id": "ENSK TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "SK", "RCN", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -1198,7 +1198,7 @@
     },
     {
       "id": "ENSO TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "SO", "BWR", "BER", "RCS", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -1223,7 +1223,7 @@
     },
     {
       "id": "ENSR TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "SR", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -1242,7 +1242,7 @@
     },
     {
       "id": "ENSS TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "SS", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -1260,7 +1260,7 @@
     },
     {
       "id": "ENST TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "ST", "HR", "RCN", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -1281,7 +1281,7 @@
     },
     {
       "id": "ENTC CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "TC", "TX", "RCN", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -1298,7 +1298,7 @@
     },
     {
       "id": "ENTO CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "TO", "FR", "FD", "RCS", "4R", "5R", "6R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "ENVA CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "VA", "CR", "CD", "RCN", "19R", "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -1341,7 +1341,7 @@
     },
     {
       "id": "ENVD TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "VD", "KX", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -1359,7 +1359,7 @@
     },
     {
       "id": "ENVRH TIZ",
-      "group": "Polaris FIR",
+      "group": "TIZ",
       "owner": [ "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -1378,7 +1378,7 @@
     },
     {
       "id": "ENZV CTR",
-      "group": "Polaris FIR",
+      "group": "CTR",
       "owner": [ "ZV", "ZAR", "ZER", "RCS", "9R", "17R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -1398,7 +1398,7 @@
     },
     {
       "id": "GJØA HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "21R", "16R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -1451,7 +1451,7 @@
     },
     {
       "id": "GOLIAT HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "23R", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -1504,7 +1504,7 @@
     },
     {
       "id": "HEIDRUN HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "23R", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -1557,7 +1557,7 @@
     },
     {
       "id": "JOHAN CASTBERG HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "23R", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -1610,7 +1610,7 @@
     },
     {
       "id": "JOHAN SVERDRUP HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "21R", "10R", "16R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -1648,7 +1648,7 @@
     },
     {
       "id": "MARTIN LINGE HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "21R", "16R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -1687,7 +1687,7 @@
     },
     {
       "id": "NORNE A HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "23R", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -1740,7 +1740,7 @@
     },
     {
       "id": "OSEBERG HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "21R", "16R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -1793,7 +1793,7 @@
     },
     {
       "id": "SKARV HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "23R", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -1846,7 +1846,7 @@
     },
     {
       "id": "SLEIPNER HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "21R", "10R", "16R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -1892,7 +1892,7 @@
     },
     {
       "id": "TAMPEN HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "GC", "21R", "16R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -1912,7 +1912,7 @@
     },
     {
       "id": "ULA HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "21R", "10R", "9R", "17R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -1965,7 +1965,7 @@
     },
     {
       "id": "YME INSPIRER HTZ",
-      "group": "Polaris FIR",
+      "group": "HTZ",
       "owner": [ "21R", "10R", "9R", "17R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -2018,7 +2018,7 @@
     },
     {
       "id": "ENGM Director RWY01",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "DD", "GWR", "GER", "6R", "5R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -4787,7 +4787,7 @@
     },
     {
       "id": "ENGM Director RWY19",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "DD", "GWR", "GER", "6R", "5R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -4935,7 +4935,7 @@
     },
     {
       "id": "LONGYEAR TIA",
-      "group": "ENOB",
+      "group": "TIA",
       "owner": [ "SB", "OB" ],
       "sectors": [
         {
@@ -4973,7 +4973,7 @@
     },
     {
       "id": "SVALBARD TIA",
-      "group": "ENOB",
+      "group": "TIA",
       "owner": [ "OB" ],
       "sectors": [
         {
@@ -5092,7 +5092,7 @@
     },
     {
       "id": "ENAN TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "AX", "RCN", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -5146,7 +5146,7 @@
     },
     {
       "id": "ENAT TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "AT", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -5196,7 +5196,7 @@
     },
     {
       "id": "ENBD",
-      "group": "Polaris FIR",
+      "group": "ENBD",
       "owner": [ "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -5224,7 +5224,7 @@
     },
     {
       "id": "ENBO TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "AR", "24R", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -5329,7 +5329,7 @@
     },
     {
       "id": "ENBR East TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "BER", "BWR", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -5442,7 +5442,7 @@
     },
     {
       "id": "ENBR West TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "BWR", "BER", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -5535,7 +5535,7 @@
     },
     {
       "id": "ENCN TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "CX", "RCS", "8R", "5R", "6R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -5657,7 +5657,7 @@
     },
     {
       "id": "ENDU TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "LR", "RCN", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -5724,7 +5724,7 @@
     },
     {
       "id": "ENEV TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "EX", "RCN", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -5799,7 +5799,7 @@
     },
     {
       "id": "ENGM East TMA RWY01",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "GER", "GWR", "DD", "6R", "5R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -5966,7 +5966,7 @@
     },
     {
       "id": "ENGM East TMA RWY19",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "GER", "GWR", "DD", "6R", "5R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -8711,7 +8711,7 @@
     },
     {
       "id": "ENGM West TMA RWY01",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "GWR", "GER", "DD", "6R", "5R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -8854,7 +8854,7 @@
     },
     {
       "id": "ENGM West TMA RWY19",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "GWR", "GER", "DD", "6R", "5R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -9038,7 +9038,7 @@
     },
     {
       "id": "ENHF TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -9194,7 +9194,7 @@
     },
     {
       "id": "ENKR TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "KX", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -9856,7 +9856,7 @@
     },
     {
       "id": "ENNA TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "NA", "RCN", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -9879,7 +9879,7 @@
     },
     {
       "id": "ENOL TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "ER", "ED", "RCN", "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -9959,7 +9959,7 @@
     },
     {
       "id": "ENRO TIA",
-      "group": "Polaris FIR",
+      "group": "TIA",
       "owner": [ "19R", "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -10002,7 +10002,7 @@
     },
     {
       "id": "ENTC TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "TX", "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -10053,7 +10053,7 @@
     },
     {
       "id": "ENVA TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "CR", "19R", "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -10152,7 +10152,7 @@
     },
     {
       "id": "ENZV TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "ZAR", "ZER", "9R", "17R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -10262,7 +10262,7 @@
     },
     {
       "id": "FARRIS TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "FR", "FD", "RCS", "4R", "5R", "6R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -14705,7 +14705,7 @@
     },
     {
       "id": "FINNMARK TIA",
-      "group": "Polaris FIR",
+      "group": "TIA",
       "owner": [ "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -14738,7 +14738,7 @@
     },
     {
       "id": "HELGELAND TMA",
-      "group": "Polaris FIR",
+      "group": "TMA",
       "owner": [ "HR", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -14811,7 +14811,7 @@
     },
     {
       "id": "NAMSOS TIA",
-      "group": "Polaris FIR",
+      "group": "TIA",
       "owner": [ "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -14835,7 +14835,7 @@
     },
     {
       "id": "SOERKJOSEN TIA",
-      "group": "Polaris FIR",
+      "group": "TIA",
       "owner": [ "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -14868,7 +14868,7 @@
     },
     {
       "id": "SOGN TIA",
-      "group": "Polaris FIR",
+      "group": "TIA",
       "owner": [ "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -15058,7 +15058,7 @@
     },
     {
       "id": "BALDER CTA",
-      "group": "Polaris FIR",
+      "group": "Offshore",
       "owner": [ "21R", "10R", "16R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -15102,7 +15102,7 @@
     },
     {
       "id": "EKOFISK CTA",
-      "group": "Polaris FIR",
+      "group": "Offshore",
       "owner": [ "21R", "10R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -15129,7 +15129,7 @@
     },
     {
       "id": "HEIDRUN ADS S18",
-      "group": "Polaris FIR",
+      "group": "Offshore",
       "owner": [ "23R", "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -15151,7 +15151,7 @@
     },
     {
       "id": "HEIDRUN ADS S24",
-      "group": "Polaris FIR",
+      "group": "Offshore",
       "owner": [ "23R", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -15170,7 +15170,7 @@
     },
     {
       "id": "HEIDRUN CTA S18",
-      "group": "Polaris FIR",
+      "group": "Offshore",
       "owner": [ "23R", "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -15192,7 +15192,7 @@
     },
     {
       "id": "HEIDRUN CTA S24",
-      "group": "Polaris FIR",
+      "group": "Offshore",
       "owner": [ "23R", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -15211,7 +15211,7 @@
     },
     {
       "id": "JOHAN CASTBERG ADS",
-      "group": "Polaris FIR",
+      "group": "Offshore",
       "owner": [ "23R", "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -15230,7 +15230,7 @@
     },
     {
       "id": "NORNE ADS",
-      "group": "Polaris FIR",
+      "group": "Offshore",
       "owner": [ "23R", "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -15254,7 +15254,7 @@
     },
     {
       "id": "ENOS Sector 1",
-      "group": "Polaris FIR",
+      "group": "ENOS",
       "owner": [ "1R", "6R", "5R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -15512,7 +15512,7 @@
     },
     {
       "id": "ENSV Sector 10",
-      "group": "Polaris FIR",
+      "group": "ENSV",
       "owner": [ "10R", "9R", "17R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -15604,7 +15604,7 @@
     },
     {
       "id": "ENSV Sector 11",
-      "group": "Polaris FIR",
+      "group": "ENSV",
       "owner": [ "10R", "9R", "17R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -15663,7 +15663,7 @@
     },
     {
       "id": "ENSV Sector 12",
-      "group": "Polaris FIR",
+      "group": "ENSV",
       "owner": [ "9R", "17R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -15690,7 +15690,7 @@
     },
     {
       "id": "ENSV Sector 13",
-      "group": "Polaris FIR",
+      "group": "ENSV",
       "owner": [ "13R", "9R", "17R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -15766,7 +15766,7 @@
     },
     {
       "id": "ENSV Sector 14",
-      "group": "Polaris FIR",
+      "group": "ENSV",
       "owner": [ "14R", "13R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -15848,7 +15848,7 @@
     },
     {
       "id": "ENSV Sector 15",
-      "group": "Polaris FIR",
+      "group": "ENSV",
       "owner": [ "10R", "16R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -15926,7 +15926,7 @@
     },
     {
       "id": "ENSV Sector 16",
-      "group": "Polaris FIR",
+      "group": "ENSV",
       "owner": [ "16R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -15990,7 +15990,7 @@
     },
     {
       "id": "ENSV Sector 17",
-      "group": "Polaris FIR",
+      "group": "ENSV",
       "owner": [ "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -16201,7 +16201,7 @@
     },
     {
       "id": "ENBD Sector 18",
-      "group": "Polaris FIR",
+      "group": "ENBD",
       "owner": [ "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -16540,7 +16540,7 @@
     },
     {
       "id": "ENBD Sector 19",
-      "group": "Polaris FIR",
+      "group": "ENBD",
       "owner": [ "19R", "18R", "24R", "25R", "NC", "OR" ],
       "sectors": [
         {
@@ -16678,7 +16678,7 @@
     },
     {
       "id": "ENOS Sector 2",
-      "group": "Polaris FIR",
+      "group": "ENOS",
       "owner": [ "2R", "1R", "6R", "5R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -16803,7 +16803,7 @@
     },
     {
       "id": "ENBD Sector 24",
-      "group": "Polaris FIR",
+      "group": "ENBD",
       "owner": [ "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -17241,7 +17241,7 @@
     },
     {
       "id": "ENBD Sector 25",
-      "group": "Polaris FIR",
+      "group": "ENBD",
       "owner": [ "25R", "26R", "OR" ],
       "sectors": [
         {
@@ -17563,7 +17563,7 @@
     },
     {
       "id": "ENBD Sector 26",
-      "group": "Polaris FIR",
+      "group": "ENBD",
       "owner": [ "26R", "25R", "OR" ],
       "sectors": [
         {
@@ -19701,7 +19701,7 @@
     },
     {
       "id": "ENBD Sector 27",
-      "group": "Polaris FIR",
+      "group": "ENBD",
       "owner": [ "24R", "25R", "OR" ],
       "sectors": [
         {
@@ -19763,7 +19763,7 @@
     },
     {
       "id": "ENOS Sector 3",
-      "group": "Polaris FIR",
+      "group": "ENOS",
       "owner": [ "3R", "4R", "5R", "6R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -21383,7 +21383,7 @@
     },
     {
       "id": "ENOS Sector 4",
-      "group": "Polaris FIR",
+      "group": "ENOS",
       "owner": [ "4R", "5R", "6R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -21482,7 +21482,7 @@
     },
     {
       "id": "ENOS Sector 5",
-      "group": "Polaris FIR",
+      "group": "ENOS",
       "owner": [ "5R", "6R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -21592,7 +21592,7 @@
     },
     {
       "id": "ENOS Sector 6",
-      "group": "Polaris FIR",
+      "group": "ENOS",
       "owner": [ "6R", "5R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -21697,7 +21697,7 @@
     },
     {
       "id": "ENOS Sector 7",
-      "group": "Polaris FIR",
+      "group": "ENOS",
       "owner": [ "7R", "6R", "5R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -21816,7 +21816,7 @@
     },
     {
       "id": "ENOS Sector 8",
-      "group": "Polaris FIR",
+      "group": "ENOS",
       "owner": [ "8R", "5R", "6R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -21873,7 +21873,7 @@
     },
     {
       "id": "ENSV Sector 9",
-      "group": "Polaris FIR",
+      "group": "ENSV",
       "owner": [ "9R", "17R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -21935,7 +21935,7 @@
     },
     {
       "id": "STATSFJORD CTA",
-      "group": "Polaris FIR",
+      "group": "Offshore",
       "owner": [ "21R", "16R", "17R", "9R", "NS", "NC", "OR" ],
       "sectors": [
         {
@@ -21964,7 +21964,19 @@
       ]
     }
   ],
-  "groups": { "Polaris FIR": { "name": "Polaris" }, "ENOB": { "name": "Bodø Oceanic" } },
+  "groups": {
+    "Polaris FIR": { "name": "Polaris" },
+    "ENOB": { "name": "Bodø Oceanic" },
+    "ENOS": { "name": "Oslo ACC" },
+    "ENSV": { "name": "Stavanger ACC" },
+    "ENBD": { "name": "Bodø ACC" },
+    "TMA": { "name": "Approach" },
+    "CTR": { "name": "Tower" },
+    "TIA": { "name": "Traffic information area (Class G - RMZ)" },
+    "TIZ": { "name": "Traffic information zone (Class G - RMZ)" },
+    "HTZ": { "name": "Helicopter traffic zone (Class G - RMZ)" },
+    "Offshore": { "name": "Polaris Offshore (Class D)" }
+  },
   "positions": {
     "QR": {
       "colours": [ { "hex": "#2154d1" } ],
@@ -22009,42 +22021,42 @@
       "callsign": "Alta Tower"
     },
     "19R": {
-      "colours": [ { "hex": "#5e12c8" } ],
+      "colours": [ { "hex": "#6a1ed5" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "131.100",
       "callsign": "Polaris Control"
     },
     "25R": {
-      "colours": [ { "hex": "#adda25" } ],
+      "colours": [ { "hex": "#bae733" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "126.450",
       "callsign": "Polaris Control"
     },
     "24R": {
-      "colours": [ { "hex": "#1665c3" } ],
+      "colours": [ { "hex": "#2171cf" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "118.550",
       "callsign": "Polaris Control"
     },
     "26R": {
-      "colours": [ { "hex": "#c40fcc" } ],
+      "colours": [ { "hex": "#d01bd8" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "126.700",
       "callsign": "Polaris Control"
     },
     "23R": {
-      "colours": [ { "hex": "#21e039" } ],
+      "colours": [ { "hex": "#2fed46" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "124.300",
       "callsign": "Polaris Control (Offshore)"
     },
     "18R": {
-      "colours": [ { "hex": "#d10b2c" } ],
+      "colours": [ { "hex": "#de1738" } ],
       "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "125.700",
@@ -22345,7 +22357,7 @@
       "callsign": "Notodden Information"
     },
     "OB": {
-      "colours": [ { "hex": "#4ade22" } ],
+      "colours": [ { "hex": "#57eb30" } ],
       "pre": [ "ENOB" ],
       "type": "CTR",
       "frequency": "123.175",
@@ -22373,77 +22385,77 @@
       "callsign": "Ørland Tower"
     },
     "OR": {
-      "colours": [ { "hex": "#2213c6" } ],
+      "colours": [ { "hex": "#2e1fd3" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "125.500",
       "callsign": "Polaris Control"
     },
     "NC": {
-      "colours": [ { "hex": "#2213c6" } ],
+      "colours": [ { "hex": "#2e1fd3" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "134.515",
       "callsign": "Polaris Control"
     },
     "NS": {
-      "colours": [ { "hex": "#2213c6" } ],
+      "colours": [ { "hex": "#2e1fd3" } ],
       "pre": [ "ENOR" ],
       "type": "CTR",
       "frequency": "121.550",
       "callsign": "Polaris Control"
     },
     "1R": {
-      "colours": [ { "hex": "#d7a427" } ],
+      "colours": [ { "hex": "#e4b135" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "118.830",
       "callsign": "Polaris Control"
     },
     "2R": {
-      "colours": [ { "hex": "#5e12c8" } ],
+      "colours": [ { "hex": "#6a1ed5" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "126.630",
       "callsign": "Polaris Control"
     },
     "3R": {
-      "colours": [ { "hex": "#21e039" } ],
+      "colours": [ { "hex": "#2fed46" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "125.055",
       "callsign": "Polaris Control"
     },
     "4R": {
-      "colours": [ { "hex": "#d10b2c" } ],
+      "colours": [ { "hex": "#de1738" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "118.880",
       "callsign": "Polaris Control"
     },
     "7R": {
-      "colours": [ { "hex": "#c40fcc" } ],
+      "colours": [ { "hex": "#d01bd8" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "124.780",
       "callsign": "Polaris Control"
     },
     "8R": {
-      "colours": [ { "hex": "#1ee3a1" } ],
+      "colours": [ { "hex": "#2cf0af" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "134.355",
       "callsign": "Polaris Control"
     },
     "5R": {
-      "colours": [ { "hex": "#1665c3" } ],
+      "colours": [ { "hex": "#2171cf" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "127.255",
       "callsign": "Polaris Control"
     },
     "6R": {
-      "colours": [ { "hex": "#adda25" } ],
+      "colours": [ { "hex": "#bae733" } ],
       "pre": [ "ENOS" ],
       "type": "CTR",
       "frequency": "120.380",
@@ -22569,49 +22581,49 @@
       "callsign": "Stokka Information"
     },
     "14R": {
-      "colours": [ { "hex": "#c40fcc" } ],
+      "colours": [ { "hex": "#d01bd8" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "124.580",
       "callsign": "Polaris Control"
     },
     "16R": {
-      "colours": [ { "hex": "#5e12c8" } ],
+      "colours": [ { "hex": "#6a1ed5" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "135.680",
       "callsign": "Polaris Control"
     },
     "9R": {
-      "colours": [ { "hex": "#d7a427" } ],
+      "colours": [ { "hex": "#e4b135" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "120.655",
       "callsign": "Polaris Control"
     },
     "13R": {
-      "colours": [ { "hex": "#d56929" } ],
+      "colours": [ { "hex": "#e27636" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "134.930",
       "callsign": "Polaris Control"
     },
     "17R": {
-      "colours": [ { "hex": "#21e039" } ],
+      "colours": [ { "hex": "#2fed46" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "124.705",
       "callsign": "Polaris Control"
     },
     "21R": {
-      "colours": [ { "hex": "#1ee3a1" } ],
+      "colours": [ { "hex": "#2cf0af" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "134.205",
       "callsign": "Polaris Control (Offshore)"
     },
     "10R": {
-      "colours": [ { "hex": "#d10b2c" } ],
+      "colours": [ { "hex": "#de1738" } ],
       "pre": [ "ENSV" ],
       "type": "CTR",
       "frequency": "136.280",
