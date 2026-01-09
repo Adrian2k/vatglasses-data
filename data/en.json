@@ -137,7 +137,7 @@
     {
       "id": "ÅSGARD HTZ",
       "group": "HTZ",
-      "owner": [ "23R", "24R", "18R", "25R", "OR" ],
+      "owner": [ "23R", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 14,
@@ -243,7 +243,7 @@
     {
       "id": "DRAUGEN HTZ",
       "group": "HTZ",
-      "owner": [ "23R", "24R", "18R", "25R", "OR" ],
+      "owner": [ "23R", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 14,
@@ -371,7 +371,7 @@
     {
       "id": "ENAL CTR",
       "group": "CTR",
-      "owner": [ "AL", "QR", "PR", "RCN", "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "AL", "QR", "PR", "RCN", "18R", "19R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -390,7 +390,7 @@
     {
       "id": "ENAN CTR",
       "group": "CTR",
-      "owner": [ "AN", "AX", "RCN", "25R", "26R", "OR" ],
+      "owner": [ "AN", "AX", "RCN", "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -408,7 +408,7 @@
     {
       "id": "ENAT CTR",
       "group": "CTR",
-      "owner": [ "AT", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "AT", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -447,7 +447,7 @@
     {
       "id": "ENBN TIZ",
       "group": "TIZ",
-      "owner": [ "BN", "HR", "RCN", "24R", "25R", "OR" ],
+      "owner": [ "BN", "HR", "RCN", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -466,7 +466,7 @@
     {
       "id": "ENBO CTR",
       "group": "CTR",
-      "owner": [ "BO", "AR", "RCN", "24R", "25R", "26R", "OR" ],
+      "owner": [ "BO", "AR", "RCN", "24R", "18R", "25R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 14,
@@ -507,7 +507,7 @@
     {
       "id": "ENBS TIZ",
       "group": "TIZ",
-      "owner": [ "BS", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "BS", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -526,7 +526,7 @@
     {
       "id": "ENBV TIZ",
       "group": "TIZ",
-      "owner": [ "BV", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "BV", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -566,7 +566,7 @@
     {
       "id": "ENDU CTR",
       "group": "CTR",
-      "owner": [ "DU", "LR", "RCN", "25R", "26R", "OR" ],
+      "owner": [ "DU", "LR", "RCN", "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 44,
@@ -583,7 +583,7 @@
     {
       "id": "ENEV CTR",
       "group": "CTR",
-      "owner": [ "EV", "EX", "RCN", "25R", "26R", "OR" ],
+      "owner": [ "EV", "EX", "RCN", "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -691,7 +691,7 @@
     {
       "id": "ENHF TIZ",
       "group": "TIZ",
-      "owner": [ "HF", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "HF", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -712,7 +712,7 @@
     {
       "id": "ENHK TIZ",
       "group": "TIZ",
-      "owner": [ "HK", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "HK", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -730,7 +730,7 @@
     {
       "id": "ENHV TIZ",
       "group": "TIZ",
-      "owner": [ "HV", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "HV", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -753,7 +753,7 @@
     {
       "id": "ENKB CTR",
       "group": "CTR",
-      "owner": [ "KB", "PR", "QR", "RCN", "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "KB", "PR", "QR", "RCN", "18R", "19R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -772,7 +772,7 @@
     {
       "id": "ENKR CTR",
       "group": "CTR",
-      "owner": [ "KR", "KX", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "KR", "KX", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -795,7 +795,7 @@
     {
       "id": "ENLK TIZ",
       "group": "TIZ",
-      "owner": [ "LK", "RCN", "25R", "26R", "OR" ],
+      "owner": [ "LK", "RCN", "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -814,7 +814,7 @@
     {
       "id": "ENMH TIZ",
       "group": "TIZ",
-      "owner": [ "MH", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "MH", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -833,7 +833,7 @@
     {
       "id": "ENML TIZ",
       "group": "TIZ",
-      "owner": [ "ML", "PR", "QR", "RCN", "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "ML", "PR", "QR", "RCN", "18R", "19R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -857,7 +857,7 @@
     {
       "id": "ENMS TIZ",
       "group": "TIZ",
-      "owner": [ "MS", "HR", "RCN", "24R", "25R", "OR" ],
+      "owner": [ "MS", "HR", "RCN", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 44,
@@ -875,7 +875,7 @@
     {
       "id": "ENNA CTR",
       "group": "CTR",
-      "owner": [ "NA", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "NA", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -896,7 +896,7 @@
     {
       "id": "ENNM TIZ",
       "group": "TIZ",
-      "owner": [ "NM", "RCN", "24R", "25R", "OR" ],
+      "owner": [ "NM", "RCN", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -975,7 +975,7 @@
     {
       "id": "ENOL CTR",
       "group": "CTR",
-      "owner": [ "OL", "ER", "ED", "RCN", "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "OL", "ER", "ED", "RCN", "18R", "19R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -994,7 +994,7 @@
     {
       "id": "ENOV TIZ",
       "group": "TIZ",
-      "owner": [ "OV", "QR", "PR", "RCN", "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "OV", "QR", "PR", "RCN", "18R", "19R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -1027,7 +1027,7 @@
     {
       "id": "ENRA TIZ",
       "group": "TIZ",
-      "owner": [ "RA", "HR", "RCN", "24R", "25R", "OR" ],
+      "owner": [ "RA", "HR", "RCN", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 44,
@@ -1044,7 +1044,7 @@
     {
       "id": "ENRM TIZ",
       "group": "TIZ",
-      "owner": [ "RM", "RCN", "24R", "25R", "OR" ],
+      "owner": [ "RM", "RCN", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -1063,7 +1063,7 @@
     {
       "id": "ENRO TIZ",
       "group": "TIZ",
-      "owner": [ "RO", "RCN", "19R", "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "RO", "RCN", "19R", "18R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 44,
@@ -1082,7 +1082,7 @@
     {
       "id": "ENRS TIZ",
       "group": "TIZ",
-      "owner": [ "RS", "RCN", "25R", "26R", "OR" ],
+      "owner": [ "RS", "RCN", "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -1161,7 +1161,7 @@
     {
       "id": "ENSH TIZ",
       "group": "TIZ",
-      "owner": [ "SH", "RCN", "25R", "26R", "OR" ],
+      "owner": [ "SH", "RCN", "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -1179,7 +1179,7 @@
     {
       "id": "ENSK TIZ",
       "group": "TIZ",
-      "owner": [ "SK", "RCN", "25R", "26R", "OR" ],
+      "owner": [ "SK", "RCN", "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -1226,7 +1226,7 @@
     {
       "id": "ENSR TIZ",
       "group": "TIZ",
-      "owner": [ "SR", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "SR", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 44,
@@ -1245,7 +1245,7 @@
     {
       "id": "ENSS TIZ",
       "group": "TIZ",
-      "owner": [ "SS", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "SS", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -1263,7 +1263,7 @@
     {
       "id": "ENST TIZ",
       "group": "TIZ",
-      "owner": [ "ST", "HR", "RCN", "24R", "25R", "OR" ],
+      "owner": [ "ST", "HR", "RCN", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -1284,7 +1284,7 @@
     {
       "id": "ENTC CTR",
       "group": "CTR",
-      "owner": [ "TC", "TX", "RCN", "25R", "26R", "OR" ],
+      "owner": [ "TC", "TX", "RCN", "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 44,
@@ -1321,7 +1321,7 @@
     {
       "id": "ENVA CTR",
       "group": "CTR",
-      "owner": [ "VA", "CR", "CD", "RCN", "19R", "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "VA", "CR", "CD", "RCN", "19R", "18R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -1344,7 +1344,7 @@
     {
       "id": "ENVD TIZ",
       "group": "TIZ",
-      "owner": [ "VD", "KX", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "VD", "KX", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -1362,7 +1362,7 @@
     {
       "id": "ENVR HTZ",
       "group": "HTZ",
-      "owner": [ "25R", "26R", "OR" ],
+      "owner": [ "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -1454,7 +1454,7 @@
     {
       "id": "GOLIAT HTZ",
       "group": "HTZ",
-      "owner": [ "23R", "26R", "25R", "OR" ],
+      "owner": [ "23R", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 19,
@@ -1507,7 +1507,7 @@
     {
       "id": "HEIDRUN HTZ",
       "group": "HTZ",
-      "owner": [ "23R", "24R", "18R", "25R", "OR" ],
+      "owner": [ "23R", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 14,
@@ -1560,7 +1560,7 @@
     {
       "id": "JOHAN CASTBERG HTZ",
       "group": "HTZ",
-      "owner": [ "23R", "26R", "25R", "OR" ],
+      "owner": [ "23R", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 19,
@@ -1692,7 +1692,7 @@
     {
       "id": "NORNE A HTZ",
       "group": "HTZ",
-      "owner": [ "23R", "24R", "25R", "OR" ],
+      "owner": [ "23R", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 19,
@@ -1798,7 +1798,7 @@
     {
       "id": "SKARV HTZ",
       "group": "HTZ",
-      "owner": [ "23R", "24R", "25R", "OR" ],
+      "owner": [ "23R", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 19,
@@ -4973,7 +4973,7 @@
     {
       "id": "ENAN TMA",
       "group": "TMA",
-      "owner": [ "AX", "RCN", "25R", "26R", "OR" ],
+      "owner": [ "AX", "RCN", "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -5027,7 +5027,7 @@
     {
       "id": "ENAT TMA",
       "group": "TMA",
-      "owner": [ "AT", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "AT", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 44,
@@ -5077,7 +5077,7 @@
     {
       "id": "ENBO TMA",
       "group": "TMA",
-      "owner": [ "AR", "24R", "25R", "26R", "OR" ],
+      "owner": [ "AR", "24R", "18R", "25R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 14,
@@ -5510,7 +5510,7 @@
     {
       "id": "ENDU TMA",
       "group": "TMA",
-      "owner": [ "LR", "RCN", "25R", "26R", "OR" ],
+      "owner": [ "LR", "RCN", "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 54,
@@ -5577,7 +5577,7 @@
     {
       "id": "ENEV TMA",
       "group": "TMA",
-      "owner": [ "EX", "RCN", "25R", "26R", "OR" ],
+      "owner": [ "EX", "RCN", "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 44,
@@ -8855,7 +8855,7 @@
     {
       "id": "ENHF TMA",
       "group": "TMA",
-      "owner": [ "26R", "25R", "OR" ],
+      "owner": [ "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -8898,7 +8898,7 @@
     {
       "id": "ENKR TMA",
       "group": "TMA",
-      "owner": [ "KX", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "KX", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 44,
@@ -9560,7 +9560,7 @@
     {
       "id": "ENNA TMA",
       "group": "TMA",
-      "owner": [ "NA", "RCN", "26R", "25R", "OR" ],
+      "owner": [ "NA", "RCN", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 104,
@@ -9583,7 +9583,7 @@
     {
       "id": "ENOL TMA",
       "group": "TMA",
-      "owner": [ "ER", "ED", "RCN", "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "ER", "ED", "RCN", "18R", "19R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -9663,7 +9663,7 @@
     {
       "id": "ENRO TIA",
       "group": "TIA",
-      "owner": [ "19R", "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "19R", "18R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 64,
@@ -9706,7 +9706,7 @@
     {
       "id": "ENTC TMA",
       "group": "TMA",
-      "owner": [ "TX", "25R", "26R", "OR" ],
+      "owner": [ "TX", "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 64,
@@ -9757,7 +9757,7 @@
     {
       "id": "ENVA TMA",
       "group": "TMA",
-      "owner": [ "CR", "19R", "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "CR", "19R", "18R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -14401,7 +14401,7 @@
     {
       "id": "FINNMARK TIA",
       "group": "TIA",
-      "owner": [ "26R", "25R", "OR" ],
+      "owner": [ "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 194,
@@ -14434,7 +14434,7 @@
     {
       "id": "HELGELAND TMA",
       "group": "TMA",
-      "owner": [ "HR", "24R", "25R", "OR" ],
+      "owner": [ "HR", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 44,
@@ -14507,7 +14507,7 @@
     {
       "id": "LOFOTEN TMA",
       "group": "TMA",
-      "owner": [ "25R", "26R", "OR" ],
+      "owner": [ "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 104,
@@ -14535,7 +14535,7 @@
     {
       "id": "MØRE NORTH TMA",
       "group": "TMA",
-      "owner": [ "PR", "QR", "RCN", "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "PR", "QR", "RCN", "18R", "19R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 24,
@@ -14648,7 +14648,7 @@
     {
       "id": "MØRE SOUTH TMA",
       "group": "TMA",
-      "owner": [ "QR", "PR", "RCN", "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "QR", "PR", "RCN", "18R", "19R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 34,
@@ -14742,7 +14742,7 @@
     {
       "id": "NAMSOS TIA",
       "group": "TIA",
-      "owner": [ "24R", "25R", "OR" ],
+      "owner": [ "24R", "18R", "25R", "27R", "OR" ],
       "sectors": [
         {
           "max": 64,
@@ -14906,7 +14906,7 @@
     {
       "id": "SØRKJOSEN TIA",
       "group": "TIA",
-      "owner": [ "26R", "25R", "OR" ],
+      "owner": [ "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 64,
@@ -15053,7 +15053,7 @@
     {
       "id": "HEIDRUN ADS",
       "group": "Offshore",
-      "owner": [ "23R", "24R", "18R", "25R", "OR" ],
+      "owner": [ "23R", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 14,
@@ -15075,7 +15075,7 @@
     {
       "id": "HEIDRUN CTA",
       "group": "Offshore",
-      "owner": [ "23R", "24R", "18R", "25R", "OR" ],
+      "owner": [ "23R", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 84,
@@ -15097,7 +15097,7 @@
     {
       "id": "JOHAN CASTBERG ADS",
       "group": "Offshore",
-      "owner": [ "23R", "26R", "25R", "OR" ],
+      "owner": [ "23R", "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 84,
@@ -15116,7 +15116,7 @@
     {
       "id": "NORNE ADS",
       "group": "Offshore",
-      "owner": [ "23R", "24R", "25R", "OR" ],
+      "owner": [ "23R", "24R", "18R", "27R", "OR" ],
       "sectors": [
         {
           "max": 84,
@@ -16078,7 +16078,7 @@
     {
       "id": "ENBD Sector 18",
       "group": "ENBD",
-      "owner": [ "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "18R", "19R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 64,
@@ -16417,7 +16417,7 @@
     {
       "id": "ENBD Sector 19",
       "group": "ENBD",
-      "owner": [ "19R", "18R", "24R", "25R", "NC", "OR" ],
+      "owner": [ "19R", "18R", "27R", "NC", "OR" ],
       "sectors": [
         {
           "max": 94,
@@ -16680,7 +16680,7 @@
     {
       "id": "ENBD Sector 24",
       "group": "ENBD",
-      "owner": [ "24R", "25R", "OR" ],
+      "owner": [ "24R", "18R", "25R", "27R", "OR" ],
       "sectors": [
         {
           "max": 94,
@@ -17118,7 +17118,7 @@
     {
       "id": "ENBD Sector 25",
       "group": "ENBD",
-      "owner": [ "25R", "26R", "OR" ],
+      "owner": [ "25R", "24R", "27R", "26R", "OR" ],
       "sectors": [
         {
           "max": 104,
@@ -17440,7 +17440,7 @@
     {
       "id": "ENBD Sector 26",
       "group": "ENBD",
-      "owner": [ "26R", "25R", "OR" ],
+      "owner": [ "26R", "24R", "27R", "OR" ],
       "sectors": [
         {
           "max": 74,
@@ -19578,7 +19578,7 @@
     {
       "id": "ENBD Sector 27",
       "group": "ENBD",
-      "owner": [ "24R", "25R", "OR" ],
+      "owner": [ "24R", "18R", "25R", "27R", "OR" ],
       "sectors": [
         {
           "max": 659,
@@ -22258,9 +22258,9 @@
       "frequency": "125.500",
       "callsign": "Polaris Control"
     },
-    "NC": {
+    "27R": {
       "colours": [ { "hex": "#4ade22" } ],
-      "pre": [ "ENOR" ],
+      "pre": [ "ENBD" ],
       "type": "CTR",
       "frequency": "134.515",
       "callsign": "Polaris Control"
@@ -22597,17 +22597,17 @@
     "ENAT": {
       "callsign": "Alta",
       "coord": [ 69.976111111111, 23.371666666667 ],
-      "topdown": [ "AT", "RCN", "26R", "25R", "OR" ]
+      "topdown": [ "AT", "RCN", "26R", "24R", "27R", "OR" ]
     },
     "ENAN": {
       "callsign": "Andøya",
       "coord": [ 69.2925, 16.144166666667 ],
-      "topdown": [ "AX", "RCN", "25R", "26R", "OR" ]
+      "topdown": [ "AX", "RCN", "25R", "24R", "27R", "26R", "OR" ]
     },
     "ENDU": {
       "callsign": "Bardufoss",
       "coord": [ 69.055833333333, 18.540277777778 ],
-      "topdown": [ "LR", "RCN", "25R", "26R", "OR" ]
+      "topdown": [ "LR", "RCN", "25R", "24R", "27R", "26R", "OR" ]
     },
     "ENBR": {
       "callsign": "Flesland",
@@ -22617,22 +22617,22 @@
     "ENBV": {
       "callsign": "Berlevåg",
       "coord": [ 70.871388888889, 29.034166666667 ],
-      "topdown": [ "RCN", "26R", "25R", "OR" ]
+      "topdown": [ "RCN", "26R", "24R", "27R", "OR" ]
     },
     "ENBO": {
       "callsign": "Bodø",
       "coord": [ 67.269166666667, 14.365277777778 ],
-      "topdown": [ "AR", "RCN", "24R", "25R", "26R", "OR" ]
+      "topdown": [ "AR", "RCN", "24R", "18R", "25R", "27R", "26R", "OR" ]
     },
     "ENBN": {
       "callsign": "Bronnøy",
       "coord": [ 65.461111111111, 12.2175 ],
-      "topdown": [ "HR", "RCN", "24R", "25R", "OR" ]
+      "topdown": [ "HR", "RCN", "24R", "18R", "27R", "OR" ]
     },
     "ENBS": {
       "callsign": "Båtsfjord",
       "coord": [ 70.600277777778, 29.6925 ],
-      "topdown": [ "RCN", "26R", "25R", "OR" ]
+      "topdown": [ "RCN", "26R", "24R", "27R", "OR" ]
     },
     "ENFL": {
       "callsign": "Florø",
@@ -22647,17 +22647,17 @@
     "ENHF": {
       "callsign": "Hammerfest",
       "coord": [ 70.679722222222, 23.668611111111 ],
-      "topdown": [ "RCN", "26R", "25R", "OR" ]
+      "topdown": [ "RCN", "26R", "24R", "27R", "OR" ]
     },
     "ENEV": {
       "callsign": "Evenes",
       "coord": [ 68.488888888889, 16.678333333333 ],
-      "topdown": [ "EX", "RCN", "25R", "26R", "OR" ]
+      "topdown": [ "EX", "RCN", "25R", "24R", "27R", "26R", "OR" ]
     },
     "ENHK": {
       "callsign": "Hasvik",
       "coord": [ 70.486666666667, 22.139722222222 ],
-      "topdown": [ "RCN", "26R", "25R", "OR" ]
+      "topdown": [ "RCN", "26R", "24R", "27R", "OR" ]
     },
     "ENHD": {
       "callsign": "Karmøy",
@@ -22667,12 +22667,12 @@
     "ENHV": {
       "callsign": "Valan",
       "coord": [ 71.009722222222, 25.983611111111 ],
-      "topdown": [ "RCN", "26R", "25R", "OR" ]
+      "topdown": [ "RCN", "26R", "24R", "27R", "OR" ]
     },
     "ENKR": {
       "callsign": "Kirkenes",
       "coord": [ 69.725, 29.887777777778 ],
-      "topdown": [ "KX", "RCN", "26R", "25R", "OR" ]
+      "topdown": [ "KX", "RCN", "26R", "24R", "27R", "OR" ]
     },
     "ENCN": {
       "callsign": "Kjevik",
@@ -22682,38 +22682,38 @@
     "ENKB": {
       "callsign": "Kvernberget",
       "coord": [ 63.111944444444, 7.8261111111111 ],
-      "topdown": [ "PR", "QR", "RCN", "18R", "24R", "25R", "NC", "OR" ]
+      "topdown": [ "PR", "QR", "RCN", "18R", "19R", "27R", "NC", "OR" ]
     },
     "ENNA": {
       "callsign": "Banak",
       "coord": [ 70.066666666667, 24.973888888889 ],
-      "topdown": [ "NA", "RCN", "26R", "25R", "OR" ]
+      "topdown": [ "NA", "RCN", "26R", "24R", "27R", "OR" ]
     },
-    "ENLK": { "callsign": "Leknes", "coord": [ 68.1525, 13.609444444444 ], "topdown": [ "RCN", "25R", "26R", "OR" ] },
+    "ENLK": { "callsign": "Leknes", "coord": [ 68.1525, 13.609444444444 ], "topdown": [ "RCN", "25R", "24R", "27R", "26R", "OR" ] },
     "ENMH": {
       "callsign": "Mehanm",
       "coord": [ 71.029722222222, 27.826666666667 ],
-      "topdown": [ "RCN", "26R", "25R", "OR" ]
+      "topdown": [ "RCN", "26R", "24R", "27R", "OR" ]
     },
     "ENRA": {
       "callsign": "Røssvoll",
       "coord": [ 66.363888888889, 14.301388888889 ],
-      "topdown": [ "HR", "RCN", "24R", "25R", "OR" ]
+      "topdown": [ "HR", "RCN", "24R", "18R", "27R", "OR" ]
     },
     "ENML": {
       "callsign": "Molde",
       "coord": [ 62.744722222222, 7.2625 ],
-      "topdown": [ "PR", "QR", "RCN", "18R", "24R", "25R", "NC", "OR" ]
+      "topdown": [ "PR", "QR", "RCN", "18R", "19R", "27R", "NC", "OR" ]
     },
     "ENMS": {
       "callsign": "Mosjøen",
       "coord": [ 65.783611111111, 13.215277777778 ],
-      "topdown": [ "HR", "RCN", "24R", "25R", "OR" ]
+      "topdown": [ "HR", "RCN", "24R", "18R", "27R", "OR" ]
     },
     "ENNM": {
       "callsign": "Namsos",
       "coord": [ 64.472222222222, 11.578611111111 ],
-      "topdown": [ "RCN", "24R", "25R", "OR" ]
+      "topdown": [ "RCN", "24R", "18R", "27R", "OR" ]
     },
     "ENNO": {
       "callsign": "Notodden",
@@ -22729,17 +22729,17 @@
     "ENRO": {
       "callsign": "Røros",
       "coord": [ 62.578888888889, 11.345 ],
-      "topdown": [ "RCN", "19R", "18R", "24R", "25R", "NC", "OR" ]
+      "topdown": [ "RCN", "19R", "18R", "27R", "NC", "OR" ]
     },
     "ENRM": {
       "callsign": "Rørvik",
       "coord": [ 64.838333333333, 11.146111111111 ],
-      "topdown": [ "RCN", "24R", "25R", "OR" ]
+      "topdown": [ "RCN", "24R", "18R", "27R", "OR" ]
     },
     "ENRS": {
       "callsign": "Røst",
       "coord": [ 67.527777777778, 12.103333333333 ],
-      "topdown": [ "RCN", "25R", "26R", "OR" ]
+      "topdown": [ "RCN", "25R", "24R", "27R", "26R", "OR" ]
     },
     "ENSD": {
       "callsign": "Anda",
@@ -22754,7 +22754,7 @@
     "ENST": {
       "callsign": "Sørstokken",
       "coord": [ 65.959722222222, 12.472222222222 ],
-      "topdown": [ "HR", "RCN", "24R", "25R", "OR" ]
+      "topdown": [ "HR", "RCN", "24R", "18R", "27R", "OR" ]
     },
     "ENSG": {
       "callsign": "Sogndal",
@@ -22769,7 +22769,7 @@
     "ENSK": {
       "callsign": "Skagen",
       "coord": [ 68.580833333333, 15.026111111111 ],
-      "topdown": [ "RCN", "25R", "26R", "OR" ]
+      "topdown": [ "RCN", "25R", "24R", "27R", "26R", "OR" ]
     },
     "ENSO": {
       "callsign": "Sørstokken",
@@ -22780,43 +22780,43 @@
     "ENSH": {
       "callsign": "Helle",
       "coord": [ 68.243333333333, 14.669166666667 ],
-      "topdown": [ "RCN", "25R", "26R", "OR" ]
+      "topdown": [ "RCN", "25R", "24R", "27R", "26R", "OR" ]
     },
     "ENSR": {
       "callsign": "Sørkjosen",
       "coord": [ 69.786666666667, 20.959722222222 ],
-      "topdown": [ "RCN", "26R", "25R", "OR" ]
+      "topdown": [ "RCN", "26R", "24R", "27R", "OR" ]
     },
     "ENTC": {
       "callsign": "Tromsø",
       "coord": [ 69.681388888889, 18.917777777778 ],
-      "topdown": [ "TX", "RCN", "25R", "26R", "OR" ]
+      "topdown": [ "TX", "RCN", "25R", "24R", "27R", "26R", "OR" ]
     },
     "ENVA": {
       "callsign": "Værnes",
       "coord": [ 63.4575, 10.924166666667 ],
-      "topdown": [ "CR", "CD", "RCN", "19R", "18R", "24R", "25R", "NC", "OR" ]
+      "topdown": [ "CR", "CD", "RCN", "19R", "18R", "27R", "NC", "OR" ]
     },
     "ENVD": {
       "callsign": "Vadsø",
       "coord": [ 70.065277777778, 29.844722222222 ],
-      "topdown": [ "KX", "RCN", "26R", "25R", "OR" ]
+      "topdown": [ "KX", "RCN", "26R", "24R", "27R", "OR" ]
     },
-    "ENSS": { "callsign": "Vardø", "coord": [ 70.355277777778, 31.045 ], "topdown": [ "RCN", "26R", "25R", "OR" ] },
+    "ENSS": { "callsign": "Vardø", "coord": [ 70.355277777778, 31.045 ], "topdown": [ "RCN", "26R", "24R", "27R", "OR" ] },
     "ENOL": {
       "callsign": "Ørland",
       "coord": [ 63.7, 9.6027777777778 ],
-      "topdown": [ "ER", "ED", "RCN", "18R", "24R", "25R", "NC", "OR" ]
+      "topdown": [ "ER", "ED", "RCN", "18R", "19R", "27R", "NC", "OR" ]
     },
     "ENOV": {
       "callsign": "Hovden",
       "coord": [ 62.18, 6.0741666666667 ],
-      "topdown": [ "QR", "PR", "RCN", "18R", "24R", "25R", "NC", "OR" ]
+      "topdown": [ "QR", "PR", "RCN", "18R", "19R", "27R", "NC", "OR" ]
     },
     "ENAL": {
       "callsign": "Vigra",
       "coord": [ 62.5625, 6.1197222222222 ],
-      "topdown": [ "QR", "PR", "RCN", "18R", "24R", "25R", "NC", "OR" ]
+      "topdown": [ "QR", "PR", "RCN", "18R", "19R", "27R", "NC", "OR" ]
     },
     "ENAE": { "callsign": "Ostre Aera", "coord": [ 61.258333, 11.67 ] },
     "ENAH": { "callsign": "Al Hallingdal Hospital (Helipad)", "coord": [ 60.629953, 8.56698 ] },
@@ -22948,7 +22948,7 @@
     "ENUR": { "callsign": "Heidrun B (Offshore Helideck)", "coord": [ 65.343463, 7.367173 ] },
     "ENUS": { "callsign": "Skarv (Offshore Helideck)", "coord": [ 65.699722, 7.650833 ] },
     "ENVE": { "callsign": "Valle/Aaraksoeyene", "coord": [ 59.030751, 7.554714 ] },
-    "ENVR": { "callsign": "Vaeroey (Heliport)", "coord": [ 67.654551, 12.72704 ], "topdown": [ "25R", "26R", "OR" ] },
+    "ENVR": { "callsign": "Vaeroey (Heliport)", "coord": [ 67.654551, 12.72704 ], "topdown": [ "25R", "24R", "27R", "26R", "OR" ] },
     "ENVS": { "callsign": "Verdal/Slottelid (Helipad)", "coord": [ 63.80021, 11.53358 ] },
     "ENWA": { "callsign": "Alvheim (Offshore Helideck)", "coord": [ 59.566667, 1.991667 ] },
     "ENWE": { "callsign": "Edvard Grieg (Offshore Helideck)", "coord": [ 58.8425, 2.247222 ] },
